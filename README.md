@@ -1,4 +1,4 @@
-This is a modified filelist.txt from the linux unpacker for The Binding of Isaac: Repentance+ to comprehensively cover all files.
+This is a modified filelist.txt from the linux unpacker for The Binding of Isaac: Repentance+ to comprehensively cover all known files.
 
 | DLC | Unknown Files |
 | - | - |
