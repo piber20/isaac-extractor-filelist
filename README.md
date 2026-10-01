@@ -9,7 +9,7 @@ This is a modified filelist.txt from the linux unpacker for The Binding of Isaac
 | Rebirth | 0 |
 
 # Unknown File Observations/Oddities
-From Repentance onward, there are a lot of text files which appear to be full of imgmagik commands. It is unknown where their actual paths are.
-From Repentance onward, there are remnants of Dumplings, its variants, Fissures, Stillborns, mines gapers and their lighting. All attempts to guess their paths have failed thus far.
-In Afterbirth+, a lot of unknown 0 byte files get extracted. It is currently unknown why this happens.
-From Afterbirth+ onward, there is an old scarred-womb variant of the scarred para-bite that gets extracted as an unknown file. Attempts to guess its path have failed thus far.
+- From Repentance onward, there are a lot of text files which appear to be full of imgmagik commands. It is unknown where their actual paths are.
+- From Repentance onward, there are remnants of Dumplings, its variants, Fissures, Stillborns, mines gapers and their lighting. All attempts to guess their paths have failed thus far.
+- In Afterbirth+, a lot of unknown 0 byte files get extracted. It is currently unknown why this happens.
+- From Afterbirth+ onward, there is an old scarred-womb variant of the scarred para-bite that gets extracted as an unknown file. Attempts to guess its path have failed thus far.
